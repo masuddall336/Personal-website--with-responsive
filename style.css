@@ -1,0 +1,101 @@
+.full-bg{
+    background-image: url("header-bg.png");
+    background-size:100% 100%   ;
+    background-repeat:no-repeat;
+}
+.background{
+    padding-top: 7%;
+    padding-bottom: 7.8%;
+}
+.header-left h2{
+    color:#EC4C7A;
+    font-weight:bold;
+}
+.header-left p{
+    color:#707070;
+    line-height:30px;
+}
+.header-left .btn{
+    color:#fff;
+    background-image: linear-gradient(to right, #EC4F91, #EC4B74);
+    border:0px;
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+.bayography-bg{
+    background-image: url("biography-bg.png");
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+}
+.background-by{
+    padding-top: 7%;
+    padding-bottom: 7.8%;
+}
+.headline h2{
+    font-weight:bold;
+}
+.bayography-right h2{
+    color:#202428;
+    font-weight:bold;
+}
+.bayography-right p{
+    color:#707070;
+    line-height:30px;
+}
+.bayography-right .btn{
+    color:#fff;
+    background-image: linear-gradient(to right, #EC4F91, #EC4B74);
+    border:0px;
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+.letest-work-bg{
+    background-image: url("latest-work-bg.png"); 
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    margin-top:100px;
+}
+.work-3{
+    padding-top: 13%;
+    padding-bottom: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-bg{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.single-footer{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
